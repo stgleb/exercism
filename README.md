@@ -1,2 +1,2 @@
 # exercism
-Solution for problems from http://exercism.io
+Solutions for problems from http://exercism.io
